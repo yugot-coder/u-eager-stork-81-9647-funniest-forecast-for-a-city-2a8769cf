@@ -1,0 +1,11 @@
+Write one line, at most 120 characters: the funniest weather forecast for
+a city that does not exist.
+
+The line must read as a weather forecast for an invented city, be funny on
+a first read with the laugh coming from the weather itself (not a pun
+bolted on), sound like a flat official weather bulletin that then breaks,
+and make the invented city feel like a real place — a name and a detail
+that fit its absurd weather. No wasted word.
+
+The program (main.py, standard library only) writes the line to
+$MAKEFUN_OUTPUT_DIR/entry.txt and verifies it by reading it back.
